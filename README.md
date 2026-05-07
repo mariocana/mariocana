@@ -1,4 +1,4 @@
-## ![Hi there 👋](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExazlmbmVpd2d1cnRmeWR4NnhhZHB5N3I0dXI1YmppZjR3d2huYnY1eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/iiwlVnhKdG33WqDiPz/giphy.gif)
+## ![Hi there 👋](https://gifdb.com/images/high/family-guy-happy-stewie-wheres-my-money-laptop-aq82hmjrk3f7t7gx.gif)
 
 <!--
 **marcanalella/marcanalella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
